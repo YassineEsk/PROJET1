@@ -1,4 +1,4 @@
-                                  ###SYLLABUS###
+###                       SYLLABUS
 _______________________________________________________________________________
 
 · **Intitulé de la formation** : Initiation au code pour créer son propre site web
@@ -14,7 +14,7 @@ Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’in
 
 Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir avec des projets concrets, l’apprentissage en communauté, et l’entraide entre élèves.
 
-**####Programme et calendrier du cours**
+####**Programme et calendrier du cours**
 
 Ce programme n’est pas définitif et peut être modifié en fonction des envies des élèves.
 
@@ -108,7 +108,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
   Nebra, Mathieu. _Réalisez votre site web avec HTML 5 et CSS 3_. OpenClassrooms. 2017. 306 pages.
 
 
-  ####**Langue d’enseignement**
+####**Langue d’enseignement**
 
   Le cours est conçu pour des élèves français ; mais le monde de l’informatique étant majoritairement anglo-saxon, il y aura un peu d’anglais dans les ressources.
 
