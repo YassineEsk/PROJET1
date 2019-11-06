@@ -65,32 +65,32 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 
   À la fin, les étudiants seront capables de :
 
-    - Concevoir une page web avec HTML
+  - Concevoir une page web avec HTML
 
-    - Lui mettre de la mise en page avec CSS
+  - Lui mettre de la mise en page avec CSS
 
-    - Insérer des animations avec JavaScript
+  - Insérer des animations avec JavaScript
 
-    - Le rendre adaptatif au mobile avec Bootstrap
+  - Le rendre adaptatif au mobile avec Bootstrap
 
-    - Manipuler l’écran noir du terminal
+  - Manipuler l’écran noir du terminal
 
-    - Mettre son code en ligne et travailler à plusieurs sur un projet avec Github
+  - Mettre son code en ligne et travailler à plusieurs sur un projet avec Github
 
-    - Mettre en ligne son site internet
+  - Mettre en ligne son site internet
 
-    - Découvrir le monde merveilleux du jargon de l’informatique
+  - Découvrir le monde merveilleux du jargon de l’informatique
 
 
   De plus, avec la pédagogie de l’éducation de pairs, les étudiants seront capables de :
 
-    - S’expliquer mutuellement des concepts compliqués
+  - S’expliquer mutuellement des concepts compliqués
 
-    - Travailler en équipe sur les projets d’entreprise
+  - Travailler en équipe sur les projets d’entreprise
 
-    - Rechercher la bonne information
+  - Rechercher la bonne information
 
-    - Assimiler rapidement des bases théoriques pour les appliquer dans des projets
+  - Assimiler rapidement des bases théoriques pour les appliquer dans des projets
 
 
 
@@ -117,12 +117,12 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 
   Voici les différents logiciels à installer :
 
-    - Un terminal
+  - Un terminal
 
-      - Déjà installé sur macOS et Linux
+    - Déjà installé sur macOS et Linux
 
-      - Cygwin sur Windows
+    - Cygwin sur Windows
 
-    - Un éditeur de texte
+  - Un éditeur de texte
 
-      - Sublime Text ou Visual Studio Code
+    - Sublime Text ou Visual Studio Code
