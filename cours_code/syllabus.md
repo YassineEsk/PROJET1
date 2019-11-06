@@ -1,4 +1,4 @@
-                                  ###SYLLABUS
+                                  ###SYLLABUS###
 _______________________________________________________________________________
 
 · **Intitulé de la formation** : Initiation au code pour créer son propre site web
@@ -125,4 +125,3 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
     - Un éditeur de texte
 
       - Sublime Text ou Visual Studio Code
-      
