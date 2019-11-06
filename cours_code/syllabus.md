@@ -1,4 +1,4 @@
-###                       SYLLABUS
+#                      SYLLABUS
 _______________________________________________________________________________
 
 · **Intitulé de la formation** : Initiation au code pour créer son propre site web
@@ -8,13 +8,13 @@ _______________________________________________________________________________
 · **Enseignant** : Félix Gaudé pour le cours, vous-mêmes pour les projets
 
 
-**#### Description du cours**
+### **Description du cours**
 
 Avec The Hacking Project, devenez un boucanier et découvrez les bases de l’informatique pour lancer votre site Internet !
 
 Vous allez travailler ensemble en petits groupes, et découvrir l’écran noir avec des projets concrets, l’apprentissage en communauté, et l’entraide entre élèves.
 
-#### **Programme et calendrier du cours**
+### **Programme et calendrier du cours**
 
 Ce programme n’est pas définitif et peut être modifié en fonction des envies des élèves.
 
@@ -59,7 +59,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
   **Projet** : aucun
 
 
-  ####**Objectif du cours**
+### **Objectif du cours**
 
   Le cours a pour but principal de faire découvrir le monde des sites webs et de l’informatique.
 
@@ -94,12 +94,12 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 
 
 
-  ####**Exemple de projet**
+### **Exemple de projet**
 
   Réaliser à plusieurs un site internet au format landing page pour présenter une idée de startup et le mettre en ligne.
 
 
-  ####**Bibliographie succincte**
+### **Bibliographie succincte**
 
   Chacon, Scott ; Straub, Ben. _Pro Git_. Apress. 2014. 456 pages
 
@@ -108,7 +108,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
   Nebra, Mathieu. _Réalisez votre site web avec HTML 5 et CSS 3_. OpenClassrooms. 2017. 306 pages.
 
 
-####**Langue d’enseignement**
+### **Langue d’enseignement**
 
   Le cours est conçu pour des élèves français ; mais le monde de l’informatique étant majoritairement anglo-saxon, il y aura un peu d’anglais dans les ressources.
 
