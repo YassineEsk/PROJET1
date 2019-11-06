@@ -50,13 +50,13 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 
   **Séance 4**
 
-    **Date** : 13/11
+  **Date** : 13/11
 
-    **Titre** : Guide de survie lexical en territoire tech
+  **Titre** : Guide de survie lexical en territoire tech
 
-    **Résumé** : Ce cours sera une introduction à l’univers tech, afin de vous expliquer comment la tech marche et que dire quand un dev vous parle du backend
+  **Résumé** : Ce cours sera une introduction à l’univers tech, afin de vous expliquer comment la tech marche et que dire quand un dev vous parle du backend
 
-    **Projet** : aucun
+  **Projet** : aucun
 
 
   ####**Objectif du cours**
