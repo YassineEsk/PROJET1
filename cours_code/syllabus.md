@@ -21,8 +21,11 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 **Séance 1**
 
   **Date** : 25/09
+
   **Titre** : Découverte de l’écran noir pour se sentir comme un hacker
+
   **Résumé** : Vous allez découvrir le terminal, ainsi que Git, un superbe outil pour travailler en équipe. Puis vous allez découvrir GitHub, l’un des sites les plus importants quand on est développeur
+  
   **Projet** : Faire un projet à plusieurs et le mettre sur GitHub
 
 **Séance 2**
