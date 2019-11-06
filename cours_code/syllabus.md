@@ -1,4 +1,4 @@
-#                      SYLLABUS
+# [center]SYLLABUS[/center]
 _______________________________________________________________________________
 
 · **Intitulé de la formation** : Initiation au code pour créer son propre site web
