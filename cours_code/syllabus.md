@@ -1,4 +1,4 @@
-# [center]SYLLABUS[/center]
+# <center> SYLLABUS </center>
 _______________________________________________________________________________
 
 · **Intitulé de la formation** : Initiation au code pour créer son propre site web
@@ -112,7 +112,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
 
   Le cours est conçu pour des élèves français ; mais le monde de l’informatique étant majoritairement anglo-saxon, il y aura un peu d’anglais dans les ressources.
 
-### **Matériel**
+#### **Matériel**
   Pour le cours, vous aurez besoin d’un ordinateur.
 
   Voici les différents logiciels à installer :
