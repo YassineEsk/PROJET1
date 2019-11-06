@@ -25,7 +25,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
   **Titre** : Découverte de l’écran noir pour se sentir comme un hacker
 
   **Résumé** : Vous allez découvrir le terminal, ainsi que Git, un superbe outil pour travailler en équipe. Puis vous allez découvrir GitHub, l’un des sites les plus importants quand on est développeur
-  
+
   **Projet** : Faire un projet à plusieurs et le mettre sur GitHub
 
 **Séance 2**
@@ -43,6 +43,7 @@ Ce programme n’est pas définitif et peut être modifié en fonction des envie
   **Date** : 23/10
 
   **Titre** : JavaScript, ou comment ajouter des explosions à votre site
+
   **Résumé** : Nous allons reprendre le projet de page de présentation de votre association et y ajouter du JavaScript afin de le rendre dynamique.
 
   **Projet** : Une version dynamique du site de présentation de votre association
