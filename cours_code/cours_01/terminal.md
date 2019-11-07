@@ -28,7 +28,7 @@ En gros, c'est une version texte de l'explorateur de fichiers : on peut ouvrir d
 
 Le terminal est un outil intimidant aux premiers abords, mais pas si compliqué au final. J'ai réalisé une vidéo pour l'expliquer :
 
-[Lien de la vidéo](<iframe width="560" height="315" src="https://www.youtube.com/embed/myz_6xrDwR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[Lien de la vidéo](https://www.youtube.com/watch?v=myz_6xrDwR4&feature=youtu.be)
 
 ## 3.2. Comment le lancer ?
 
