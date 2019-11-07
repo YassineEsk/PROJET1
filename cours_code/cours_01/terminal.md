@@ -6,11 +6,11 @@ Accroche-toi à tes chaussettes, car nous allons maintenant découvrir les bases
 
 Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ressource :
 
-  Qu'est-ce que le terminal ?
-  Que veulent dire GUI et CLI ?
-  Comment lancer un terminal ?
-  Pourquoi la notion de géographie est très importante dans un terminal ?
-  Qu'est-ce que VIM et comment s'en servir ?
+  - Qu'est-ce que le terminal ?
+  - Que veulent dire GUI et CLI ?
+  - Comment lancer un terminal ?
+  - Pourquoi la notion de géographie est très importante dans un terminal ?
+  - Qu'est-ce que VIM et comment s'en servir ?
 
 # 2. Historique
 
@@ -23,10 +23,10 @@ Le terminal -- ce que l'on appelle plus communément un _interpréteur de comman
 En gros, c'est une version texte de l'explorateur de fichiers : on peut ouvrir des dossiers, créer des fichiers, les lancer, les renommer, installer des programmes, et bien d'autres choses. On dit que c'est une **CLI** (Command Line Interface), comparée à la **GUI** (Graphical User Interface) de l'explorateur normal. Tout est fait via le clavier, donc pas besoin de souris pour l'utiliser.
 
 # 3. Le terminal
+
 ## 3.1. Qu'est-ce que le terminal ?
 
 Le terminal est un outil intimidant aux premiers abords, mais pas si compliqué au final. J'ai réalisé une vidéo pour l'expliquer :
-
 
 
 
@@ -48,15 +48,15 @@ CTRL + ALT + T.
 
 Sur Windows, le terminal sera géré de manière un chouilla différente. Pendant toute la formation, nous allons utiliser un terminal de type [Shell Unix](https://fr.wikipedia.org/wiki/Shell_Unix), car c'est le plus utilisé au monde et qu'il sera donc plus aisé pour toi de trouver des réponses en cas de problème. Le terminal _Shell Unix_ est celui qui est installé de base pour Linux et macOS. Celui de Windows est l'invite de commandes, qui est de type DOS. Bon je sais, ça commence à faire beaucoup d'infos... Mais essaie au moins de retenir ces points :
 
-  macOS et Linux utilisent le même "noyau" de système d'exploitation : Unix ; tandis que Windows utilise DOS.
-  Le terminal de macOS et Linux est de type Shell Unix, tandis que celui de Windows est de type DOS. Ce qui fait que l'invite de commandes de Windows aura une utilisation différente de celui de type Unix Shell.
-  Dans le milieu de la programmation, le terminal de type Shell Unix est universellement utilisé.
-  Si tu es utilisateur de Windows, nous te demanderons de trouver une alternative à l'invite de commandes.
+  - macOS et Linux utilisent le même "noyau" de système d'exploitation : Unix ;  tandis que Windows utilise DOS.
+  - Le terminal de macOS et Linux est de type Shell Unix, tandis que celui de Windows est de type DOS. Ce qui fait que l'invite de commandes de Windows aura une utilisation différente de celui de type Unix Shell.
+  - Dans le milieu de la programmation, le terminal de type Shell Unix est universellement utilisé.
+  - Si tu es utilisateur de Windows, nous te demanderons de trouver une alternative à l'invite de commandes.
 
 Pas de panique, nous avons pensé à toi si tu es sur Windows ! Voici quelques alternatives qui feront le travail :
 
-  La solution de facilité pour les grands débutants du terminal est [Cygwin](https://www.cygwin.com). Pour t'aider, j'ai même réalisé une [vidéo tutorielle](https://youtu.be/YogNpgcKY9A) pour son installation.
-  C'est en constatant le rejet universel de Windows chez les développeurs qu'un certain Satya Nadella a travaillé dur pour proposer une alternative décente. Ainsi, **si tu es sur Windows 10**, il existe un terminal Shell Unix qui s'appelle _Windows Subsystem for Linux_ et qui installe une version de Linux sur Windows dont tu peux te servir
+  - La solution de facilité pour les grands débutants du terminal est [Cygwin](https://www.cygwin.com). Pour t'aider, j'ai même réalisé une [vidéo tutorielle](https://youtu.be/YogNpgcKY9A) pour son installation.
+  - C'est en constatant le rejet universel de Windows chez les développeurs qu'un certain Satya Nadella a travaillé dur pour proposer une alternative décente. Ainsi, **si tu es sur Windows 10**, il existe un terminal Shell Unix qui s'appelle _Windows Subsystem for Linux_ et qui installe une version de Linux sur Windows dont tu peux te servir
 
 ## 3.3. Premières fonctions ?
 
@@ -183,17 +183,17 @@ Les touches du haut et du bas permettent de naviguer dans l'historique des comma
 
 Voici les points à retenir de la ressource :
 
-  Pour lancer le terminal sur Linux : CTRL + ALT + T ; pour le lancer sur macOS : CMD + SPACE, puis écrire Terminal (ou iTerm) et presser la touche Enter ; pour Windows il te faudra trouver un subterfuge : Cygwin est la solution parfaite pour les débutants.
-  man permet de lancer le manuel des fonctions.
-  pwd affiche le dossier dans lequel tu es actuellement.
-  ls est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
-  La notion de géographie est fondamentale : le terminal n'arrivera pas à ouvrir les fichiers s'il ne se trouve pas dans le bon dossier.
-  cd permet de changer de dossier.
-  touch permet de créer un fichier.
-  cp permet de copier un fichier.
-  mv permet de déplacer un fichier ou un dossier.
-  rm permet de supprimer un fichier.
-  rm -r permet de supprimer un dossier et son contenu.
+  - Pour lancer le terminal sur Linux : CTRL + ALT + T ; pour le lancer sur macOS : CMD + SPACE, puis écrire Terminal (ou iTerm) et presser la touche Enter ; pour Windows il te faudra trouver un subterfuge : Cygwin est la solution parfaite pour les débutants.
+  - man permet de lancer le manuel des fonctions.
+  - pwd affiche le dossier dans lequel tu es actuellement.
+  - ls est une commande qui affiche les fichiers et dossiers contenus dans mon dossier actuel.
+  - La notion de géographie est fondamentale : le terminal n'arrivera pas à ouvrir les fichiers s'il ne se trouve pas dans le bon dossier.
+  - cd permet de changer de dossier.
+  - touch permet de créer un fichier.
+  - cp permet de copier un fichier.
+  - mv permet de déplacer un fichier ou un dossier.
+  - rm permet de supprimer un fichier.
+  - rm -r permet de supprimer un dossier et son contenu.
 
 # 5. Aller plus loin
 
