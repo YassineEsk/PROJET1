@@ -40,7 +40,7 @@ CMD + SPACE, puis écrire Terminal (ou iTerm), Enter.
 
 CTRL + ALT + T.
 
-## 🚀 ALERTE BONNE ASTUCE
+### 🚀 ALERTE BONNE ASTUCE
 >
 >Si tu utilises Linux, passe ton terminal en anglais. Ça va vraiment t'aider lorsqu'il te renverra des erreurs. En effet, comme l'anglais est la langue d'internet, la majorité des gens ayant eu ton problème vont le poster en anglais. Tu auras ainsi 100 fois plus de résultats sur Google qu'avec une erreur postée en français.
 
@@ -80,7 +80,7 @@ Pour moi, pwd me renvoie :
 
 C'est comme dans l'explorateur en GUI, quand tu double-cliques sur felix, il te déplace dans le dossier felix qui est dans le dossier Users.
 
-🚀 ALERTE BONNE ASTUCE
+### 🚀 ALERTE BONNE ASTUCE
 >pwd est généralement la première commande que l'on tape quand on arrive dans le terminal de quelqu'un car c'est idéal pour s'y retrouver ✌️
 
 ### 3.3.2. LS
@@ -121,7 +121,7 @@ Tu te déplaceras dans le dossier nommé nomdudossier (s'il existe là où tu te
 
 Tu peux aussi te déplacer vers le dossier parent en faisant $ cd ..
 
-🚀 ALERTE BONNE ASTUCE
+### 🚀 ALERTE BONNE ASTUCE
 >Utiliser la touche TAB permet de faire de l'autocompletion, très pratique pour cette méthode. Aussi, faire cd + [ESPACE] + TAB + TAB affiche les dossiers disponibles.
 
 ## 3.6. Autres fonctions
@@ -143,7 +143,7 @@ Pour déplacer (couper) un fichier ou un dossier d'un endroit vers un autre, il 
 
     mv [fichier_à_déplacer] [lieu_de_destination]
 
-🚀 ALERTE BONNE ASTUCE
+### 🚀 ALERTE BONNE ASTUCE
 >
 >mv (diminutif de "move") est très pratique pour renommer un fichier. Imaginons que tu as créé un fichier "hello.rv" au lieu de "hello.rb". Oups, malheur ! Heureusement, faire $ mv hello.rv hello.rb résout ce petit incident en quelques coups de clavier !
 
@@ -157,7 +157,7 @@ Il est possible d'effacer un dossier ainsi que son contenu en ajoutant -r (comme
 
     $ rm -r nomdudossier
 
-📚 INSTANT CULTURE GÉ
+### 📚 INSTANT CULTURE GÉ
 >
 >rm est à l'origine d'une blague vieille comme le monde. En effet, ajouter l'option -f permet de forcer la suppression d'un fichier, même s'il est important pour l'ordinateur. D'autre part, finir par / ou * dit à votre ordinateur d'inclure absolument tous les fichiers. Ainsi, si tu tapes $ rm -rf / ou $ rm -rf * dans ton terminal, tu dis à ce dernier de tout prendre et de tout effacer, en forçant les barrières. En plus, figure-toi que rm est très rapide. Il effacera donc l'intégralité de ton ordinateur en quelques secondes à peine ! Conclusion : **à ne jamais jamais jamais faire**.
 
