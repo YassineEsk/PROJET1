@@ -11,6 +11,7 @@ Vous retrouverez dans ce dossier quatre cours pour avancer pas à pas dans votre
 
 #### **Collaborateurs :** 
 -Essalki Yassine, étudiant en L2 biologie santé internationale 
+
 -Hanaine Baih, étudiante en aei internationale business
 #### **Pourquoi suivre ce cours ?**
 Le code étant indispensable pour se lancer dans le monde du travail, ils nous semblaient intéressant de suivre ce cours.
