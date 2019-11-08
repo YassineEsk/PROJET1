@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="150" src="https://raw.githubusercontent.com/YassineEsk/PROJET1/master/thp.jpg">
+  <img width="460" height="150" src="https://raw.githubusercontent.com/YassineEsk/PROJET1/master/cours_code/thp.jpg">
 </p>
 
 
